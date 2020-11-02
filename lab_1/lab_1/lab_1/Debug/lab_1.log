@@ -1,0 +1,33 @@
+﻿  lab1.c
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(56): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(79): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(91): warning C4013: inverse: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(209): warning C4244: функция: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(210): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(312): warning C4244: функция: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(312): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char"
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(312): warning C4024: decipher: различные типы для формального и фактического параметров 2
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(312): warning C4024: decipher: различные типы для формального и фактического параметров 3
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(313): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(323): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(412): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(420): warning C4101: a_shtrih: неиспользованная локальная переменная
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(473): warning C4142: "inverse": неопасное переопределение типа
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(476): warning C4244: return: преобразование "unsigned __int64" в "long", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(540): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(540): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(544): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(544): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(567): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(567): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(571): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(571): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(579): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(579): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(318): warning C4715: decrypt: значение возвращается не при всех путях выполнения
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(434): warning C4715: decipher: значение возвращается не при всех путях выполнения
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(449): warning C4715: calculation: значение возвращается не при всех путях выполнения
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(560): warning C4716: jacobi_sym2: должна возвращать значение
+c:\users\1\documents\visual studio 2017\projects\lab_1\lab_1\lab1.c(547): warning C4715: legendre_sym: значение возвращается не при всех путях выполнения
+  lab_1.vcxproj -> c:\users\1\documents\visual studio 2017\Projects\lab_1\Debug\lab_1.exe
+  lab_1.vcxproj -> c:\users\1\documents\visual studio 2017\Projects\lab_1\Debug\lab_1.pdb (Partial PDB)

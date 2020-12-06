@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="form align-self-center">
+				<div class="nav-title text-center">Sign In</div>
+				<form action="/login" method="post" id="userData">
+					<div class="form-group inputs">
+						
+						<span class="errMess paragraph">{{errCode}}</span>
+
+						<div class="ui-input">
+							<label class="d-none">Login</label><br>
+							<input type="text" name="login" placeholder="Login" required><span><br></span>
+						</div>
+						<div class="ui-input">
+							<label class="d-none">Password</label><br>
+							<input type="password" name="pass" placeholder="Password" required><span><br></span>
+						</div>
+					</div>
+					<div class="justify-content-center d-flex">
+						<button class="ui-button2 main2 mr-0" type="submit"><div class="xs-title">Отправить</div></button>
+					</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
